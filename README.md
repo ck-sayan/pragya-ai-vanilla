@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Day #78
 
 ### Google Gemini Clone
@@ -22,3 +23,6 @@ const GOOGLE_API_KEY = "YOUR_API_KEY";
 Here we have project screenshot :
 
 ![screenshot](screenshot.png)
+=======
+# pragya.ai
+>>>>>>> deae050bf6641ded9c80949435fa1ce3281fe23a
