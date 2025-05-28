@@ -130,7 +130,7 @@ const requestApiResponse = async (incomingMessageElement) => {
         headers: {
           "Content-Type": "application/json",
           Authorization:
-            "Bearer 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",
+            "Bearer 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",
           "HTTP-Referer": "https://pragya-ai.netlify.app/",
           "X-Title": "Pragya-AI",
         },
