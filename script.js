@@ -377,3 +377,6 @@ messageForm.addEventListener("submit", (e) => {
 });
 
 loadSavedChatHistory();
+
+
+// TODO: Improve error handling
