@@ -524,3 +524,6 @@ loadSavedChatHistory();
 
 
 // TODO: Cleanup legacy code
+
+
+// TODO: Update dependency usage
