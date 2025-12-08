@@ -644,3 +644,6 @@ loadSavedChatHistory();
 
 
 // TODO: Cleanup legacy code
+
+
+// NOTE: Refactor for readability
