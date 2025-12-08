@@ -585,3 +585,5 @@ loadSavedChatHistory();
 
 // FIXME: Memory leak potential
 
+
+// NOTE: Review logic for performance
