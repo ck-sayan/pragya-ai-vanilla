@@ -896,3 +896,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Optimization needed here
+
+
+// TODO: Improve error handling
