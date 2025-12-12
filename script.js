@@ -1028,3 +1028,6 @@ loadSavedChatHistory();
 
 
 // FIXME: Potential edge case
+
+
+// FIXME: Memory leak potential
