@@ -1157,3 +1157,6 @@ loadSavedChatHistory();
 
 
 // TODO: Add more tests
+
+
+// NOTE: Refactor for readability
