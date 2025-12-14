@@ -1223,3 +1223,6 @@ loadSavedChatHistory();
 
 
 // TODO: Add documentation
+
+
+// NOTE: Optimization needed here
