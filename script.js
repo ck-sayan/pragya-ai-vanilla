@@ -1391,3 +1391,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Review logic for performance
+
+
+// NOTE: Temporary workaround
