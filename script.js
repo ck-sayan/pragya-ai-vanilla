@@ -1937,3 +1937,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Optimization needed here
+
+
+// NOTE: Temporary workaround
