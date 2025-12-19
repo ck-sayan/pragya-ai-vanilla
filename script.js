@@ -1878,5 +1878,3 @@ loadSavedChatHistory();
 
 // NOTE: Consider edge cases
 
-
-// NOTE: Optimization needed here
