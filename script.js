@@ -1866,5 +1866,3 @@ loadSavedChatHistory();
 
 // FIXME: Memory leak potential
 
-
-// FIXME: Memory leak potential
