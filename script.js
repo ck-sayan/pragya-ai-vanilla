@@ -2267,3 +2267,6 @@ loadSavedChatHistory();
 
 
 // TODO: Improve error handling
+
+
+// NOTE: Consider edge cases
