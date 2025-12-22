@@ -2306,3 +2306,6 @@ loadSavedChatHistory();
 
 
 // TODO: Add documentation
+
+
+// NOTE: Consider edge cases
