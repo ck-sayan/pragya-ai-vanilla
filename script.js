@@ -3422,3 +3422,6 @@ loadSavedChatHistory();
 
 
 // FIXME: Potential edge case
+
+
+// NOTE: Refactor for readability
