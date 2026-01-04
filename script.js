@@ -3830,3 +3830,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Refactor for readability
+
+
+// NOTE: Temporary workaround
