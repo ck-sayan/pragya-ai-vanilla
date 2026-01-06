@@ -4052,3 +4052,6 @@ loadSavedChatHistory();
 
 
 // TODO: Add documentation
+
+
+// NOTE: Temporary workaround
