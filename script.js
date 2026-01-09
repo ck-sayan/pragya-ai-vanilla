@@ -4512,5 +4512,3 @@ loadSavedChatHistory();
 
 // NOTE: Consider edge cases
 
-
-// NOTE: Temporary workaround
