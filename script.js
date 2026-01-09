@@ -4406,3 +4406,6 @@ loadSavedChatHistory();
 
 
 // TODO: Cleanup legacy code
+
+
+// NOTE: Temporary workaround
