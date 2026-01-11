@@ -4679,3 +4679,6 @@ loadSavedChatHistory();
 
 
 // FIXME: Potential edge case
+
+
+// TODO: Cleanup legacy code
