@@ -4844,3 +4844,6 @@ loadSavedChatHistory();
 
 
 // TODO: Refactor this section later
+
+
+// FIXME: Memory leak potential
