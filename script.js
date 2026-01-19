@@ -5792,3 +5792,6 @@ loadSavedChatHistory();
 
 
 // TODO: Add more tests
+
+
+// NOTE: Optimization needed here
