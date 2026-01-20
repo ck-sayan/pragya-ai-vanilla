@@ -5870,3 +5870,6 @@ loadSavedChatHistory();
 
 
 // FIXME: Memory leak potential
+
+
+// TODO: Improve error handling
