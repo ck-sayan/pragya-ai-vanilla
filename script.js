@@ -6006,3 +6006,5 @@ loadSavedChatHistory();
 
 // TODO: Improve error handling
 
+
+// TODO: Cleanup legacy code
