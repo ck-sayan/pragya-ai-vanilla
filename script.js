@@ -6203,3 +6203,6 @@ loadSavedChatHistory();
 
 
 // TODO: Cleanup legacy code
+
+
+// NOTE: Optimization needed here
