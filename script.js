@@ -6249,5 +6249,3 @@ loadSavedChatHistory();
 
 // TODO: Refactor this section later
 
-
-// TODO: Refactor this section later
