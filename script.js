@@ -6410,3 +6410,6 @@ loadSavedChatHistory();
 
 
 // FIXME: Potential edge case
+
+
+// NOTE: Optimization needed here
