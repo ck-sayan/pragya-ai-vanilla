@@ -6557,3 +6557,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Refactor for readability
+
+
+// NOTE: Optimization needed here
