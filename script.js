@@ -7091,3 +7091,6 @@ loadSavedChatHistory();
 
 
 // TODO: Update dependency usage
+
+
+// NOTE: Review logic for performance
