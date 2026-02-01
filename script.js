@@ -7344,3 +7344,5 @@ loadSavedChatHistory();
 
 // TODO: Cleanup legacy code
 
+
+// NOTE: Consider edge cases
