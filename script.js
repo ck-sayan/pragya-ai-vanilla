@@ -7511,3 +7511,6 @@ loadSavedChatHistory();
 
 
 // TODO: Add documentation
+
+
+// TODO: Cleanup legacy code
