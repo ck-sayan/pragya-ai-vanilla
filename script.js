@@ -7787,3 +7787,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Optimization needed here
+
+
+// NOTE: Review logic for performance
