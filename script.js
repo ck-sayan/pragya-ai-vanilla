@@ -7917,3 +7917,5 @@ loadSavedChatHistory();
 
 // NOTE: Temporary workaround
 
+
+// TODO: Cleanup legacy code
