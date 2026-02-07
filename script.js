@@ -7988,3 +7988,6 @@ loadSavedChatHistory();
 
 
 // TODO: Improve error handling
+
+
+// NOTE: Temporary workaround
