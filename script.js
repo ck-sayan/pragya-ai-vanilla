@@ -8156,3 +8156,6 @@ loadSavedChatHistory();
 
 
 // TODO: Add documentation
+
+
+// TODO: Improve error handling
