@@ -8300,3 +8300,6 @@ loadSavedChatHistory();
 
 
 // TODO: Cleanup legacy code
+
+
+// FIXME: Memory leak potential
