@@ -8225,3 +8225,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Review logic for performance
+
+
+// NOTE: Refactor for readability
