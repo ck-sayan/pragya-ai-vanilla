@@ -8498,3 +8498,6 @@ loadSavedChatHistory();
 
 
 // TODO: Refactor this section later
+
+
+// TODO: Cleanup legacy code
