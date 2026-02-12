@@ -8492,3 +8492,6 @@ loadSavedChatHistory();
 
 
 // NOTE: Review logic for performance
+
+
+// TODO: Improve error handling
