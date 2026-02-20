@@ -9419,3 +9419,6 @@ loadSavedChatHistory();
 
 
 // FIXME: Potential edge case
+
+
+// TODO: Improve error handling
